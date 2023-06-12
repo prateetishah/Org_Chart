@@ -1,0 +1,13 @@
+/Users/prateeti/Projects/Org_Chart/Org_Chart/bin/Debug/netcoreapp3.1/Org_Chart.deps.json
+/Users/prateeti/Projects/Org_Chart/Org_Chart/bin/Debug/netcoreapp3.1/Org_Chart.runtimeconfig.json
+/Users/prateeti/Projects/Org_Chart/Org_Chart/bin/Debug/netcoreapp3.1/Org_Chart.runtimeconfig.dev.json
+/Users/prateeti/Projects/Org_Chart/Org_Chart/bin/Debug/netcoreapp3.1/Org_Chart.dll
+/Users/prateeti/Projects/Org_Chart/Org_Chart/bin/Debug/netcoreapp3.1/Org_Chart.pdb
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.csproj.AssemblyReference.cache
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.AssemblyInfoInputs.cache
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.AssemblyInfo.cs
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.csproj.CoreCompileInputs.cache
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.dll
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.pdb
+/Users/prateeti/Projects/Org_Chart/Org_Chart/obj/Debug/netcoreapp3.1/Org_Chart.genruntimeconfig.cache
